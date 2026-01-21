@@ -79,6 +79,8 @@ Per exemple la taula persones podria ser així:
 
 <img width="318" height="274" alt="imatge" src="https://github.com/user-attachments/assets/cf187aa6-c919-49e3-a9d8-f591fbc89f49" />
 
+Existeixen utilitats per dibuixar les taules d'una bbdd com [https://drawsql.app/](https://drawsql.app/).
+
 I per a crear-la la comanda que farem servir és:
 
 ```
