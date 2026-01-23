@@ -5,7 +5,9 @@ Petit projecte amb bases de dades utilitzant MariaDB.
 ## Instal·lar la base de dades (BBDD) Mariadb
 
 ```
+sudo apt update
 sudo apt install mariadb-server
+sudo service mariadb restart
 ```
 
 ## Utilitzar la bbdd
