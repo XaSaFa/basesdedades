@@ -14,7 +14,7 @@ Ha de tenir un camp amb el nom del curs.
 
 Insereix els següents cursos:
 
-1SMX, 2SMX, 1GAD, PFI, FPB1, FPB2
+1SMX, 2SMX, 1GAD, PFI, 1FPB, 2FPB
 
 1ESOA, 1ESOB, 2ESOA, 2ESOB
 
