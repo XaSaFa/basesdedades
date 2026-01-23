@@ -38,9 +38,7 @@ Edat
 
 Email
 
-Curs on està matriculat l’alumne
-
-Defineix la relació entre la taula alumnes i la taula curs.
+Això no:  Curs on està matriculat l’alumne, Defineix la relació entre la taula alumnes i la taula curs.
 
 # EXERCICI 4: Inserció de dades dels alumnes
 
