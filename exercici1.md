@@ -1,6 +1,6 @@
 # EXERCICI 1: Base de dades
 
-Crea una base de dades anomenada escola.
+Crea una base de dades anomenada escola-X, on X és el vostre cognom.
 
 Selecciona-la per començar a treballar.
 
