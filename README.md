@@ -95,7 +95,7 @@ Per exemple la taula persones podria ser així:
 
 Existeixen utilitats per dibuixar les taules d'una bbdd com [https://drawsql.app/](https://drawsql.app/).
 
-#### Crear una taula
+### Crear una taula
 
 Per a crear la taula fel servir la comanda **CREATE TABLE**:
 
@@ -115,25 +115,29 @@ Podem veure una taula com una quadrícula en la que la primera filera té el nom
 
 <img width="1186" height="599" alt="imatge" src="https://github.com/user-attachments/assets/b93b0da5-f55a-4b57-8000-4dfb952f7c15" />
 
-#### Modificar l'estructura de la taula
+### Modificar l'estructura de la taula
 
 Si en algun moment ens adonem que no hem construït bé la taula però ja tenim informació ficada podem utilitzar la instrucció **ALTER TABLE**.
 
 [https://www.mariadbtutorial.com/mariadb-basics/mariadb-alter-table/](https://www.mariadbtutorial.com/mariadb-basics/mariadb-alter-table/)
 
-#### Esborrar una taula
+Per exemple per afegir un camp nou a una taula ho em així:
+
+<img width="702" height="167" alt="imatge" src="https://github.com/user-attachments/assets/a2e2d384-4266-4a7b-9a66-95700f09e1a6" />
+
+### Esborrar una taula
 
 Per esborrar una taula fem servir la comanda **DROP TABLE**.
 
 <img width="355" height="137" alt="imatge" src="https://github.com/user-attachments/assets/cfb69515-6abe-4fd6-8834-9c4c8fe47518" />
 
-#### Primary Key
+### Primary Key
 
 Les taules de dades moltes vegades tenen un camp anomenat PK (**Primary Key**), aquest camp serveix per identificar un registre (una línia d'una taula) de forma inequívoca, perque no poden existir dos valors PK iguals dins la mateixa taula.
 
 En la taula anterior la clau principal és id, un camp que hem inventat i que es sol fer servir a totes les taules.
 
-#### Afegir un registre a una taula
+### Afegir un registre a una taula
 
 Per a afegir informació a la taula utilitzem la instrucció **INSERT INTO**.
 
@@ -148,7 +152,7 @@ VALUES('Xavier','Ordóñez','López','12345678T','1999-03-11');
 
 <img width="748" height="96" alt="imatge" src="https://github.com/user-attachments/assets/a5040b15-6842-4ac7-a4f5-15e558710314" />
 
-#### Consultar registres de la taula
+### Consultar registres de la taula
 
 Per consultar els registres d'una taula farem servir la comanda **SELECT**.
 
@@ -175,7 +179,7 @@ Si vull seleccionar només els registres que compleixin una condició faig servi
 
 <img width="586" height="173" alt="imatge" src="https://github.com/user-attachments/assets/715ab0f6-bc8f-41ef-96c4-1c22ce5d6854" />
 
-#### Esborrar un registre
+### Esborrar un registre
 
 Per esborrar registres fem servir la comanda **DELETE**.
 
@@ -191,7 +195,7 @@ Però aquesta instrucció és molt perillosa, sempre es sol utilitzar amb un WHE
 
 <img width="624" height="384" alt="imatge" src="https://github.com/user-attachments/assets/8aa5816d-fc96-40a3-a138-fc23e279ad02" />
 
-#### Modificar un registre
+### Modificar un registre
 
 Per modificar un registre farem servir la comanda **UPDATE**.
 
