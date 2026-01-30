@@ -98,7 +98,7 @@ Esborra un alumne concret.
 
 Esborra tots els alumnes matriculats en un curs determinat.
 
-# EXERCICI 8 (opcional): Neteja final
+# EXERCICI 8: Neteja final
 
 Esborra totes les dades de la taula alumnes.
 
