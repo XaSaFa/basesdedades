@@ -1,6 +1,4 @@
-# Bases de dades
-
-Petit projecte amb bases de dades utilitzant MariaDB.
+# Bases de dades SQL amb MariaDB
 
 ## Instal·lar la base de dades (BBDD) Mariadb
 
