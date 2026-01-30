@@ -2,4 +2,5 @@
 
 - [Apunts SQL](sql1.md)
 - [Clau externa](sql2.md)
+- [Utilitzant més d'una taula](sql3.md)
 - [Exercici 1](exercici1.md)
