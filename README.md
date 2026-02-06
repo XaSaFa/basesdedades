@@ -12,3 +12,6 @@
 
 ## Activitats
 - [Exercici 1](exercici1.md)
+
+## Projecte Aventura:
+- [Primera fase](aventura.md)
