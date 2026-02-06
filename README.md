@@ -15,3 +15,4 @@
 
 ## Projecte Aventura:
 - [Primera fase](aventura.md)
+- Plànol de localitzacions: seria interessant dividir el mapa en localitzacions.
