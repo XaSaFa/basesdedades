@@ -8,7 +8,7 @@
 
 ## Classes
 
-- [Classes a Python](class.md)
+- [Classes a Python](classes.md)
 
 ## Activitats
 - [Exercici 1](exercici1.md)
