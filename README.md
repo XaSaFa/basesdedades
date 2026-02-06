@@ -14,5 +14,6 @@
 - [Exercici 1](exercici1.md)
 
 ## Projecte Aventura:
+- **06-02-26:**
 - [Primera fase](aventura.md)
 - Plànol de localitzacions: seria interessant dividir el mapa en localitzacions.
