@@ -18,7 +18,7 @@
 - [Primera fase](aventura.md)
 - Plànol de localitzacions: seria interessant dividir el mapa en localitzacions.
 - **13-02-26:**
-Avui decidim fer el plànol, dividir les sales, marcar el seu número (id) i fer els camins entre sales.
+- Avui decidim fer el plànol, dividir les sales, marcar el seu número (id) i fer els camins entre sales.
 
 <img width="1280" height="964" alt="image" src="https://github.com/user-attachments/assets/ff88aa4d-7055-4536-be24-4b688e5212c3" />
 
