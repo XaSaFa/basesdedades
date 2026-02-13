@@ -20,7 +20,9 @@
 - **13-02-26:**
   - Avui decidim fer el plànol, dividir les sales, marcar el seu número (id) i fer els camins entre sales.
 
-<img width="1280" height="964" alt="image" src="https://github.com/user-attachments/assets/ff88aa4d-7055-4536-be24-4b688e5212c3" />
+![planta_baixa](https://github.com/user-attachments/assets/d2758749-5524-49b1-ba3a-68106ce0a87b)
+
+![primera_planta](https://github.com/user-attachments/assets/4c882748-cf78-4bf4-bd58-646260f202ba)
 
 ## Recursos
 
