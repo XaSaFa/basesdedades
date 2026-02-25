@@ -1,0 +1,53 @@
+{% extends "base.html" %}
+
+{% block title %}{% if cani %}Editar{% else %}Nou{% endif %} Caní{% endblock %}
+
+{% block content %}
+<div class="page-header">
+    <h2>{% if cani %}Editar Caní #{{ cani.id }}{% else %}Nou Caní{% endif %}</h2>
+</div>
+
+<div class="form-container">
+    <form method="post" action="{% if cani %}/canins/{{ cani.id }}/editar{% else %}/canins/nou{% endif %}">
+        <div class="form-group">
+            <label for="localitzacio1">Localització 1 *</label>
+            <select id="localitzacio1" name="localitzacio1" required>
+                <option value="">-- Selecciona una localització --</option>
+                {% for loc in localitzacions %}
+                <option value="{{ loc.id }}" 
+                        {% if cani and cani.localitzacio1 == loc.id %}selected{% endif %}>
+                    {{ loc.nom }} (ID: {{ loc.id }})
+                </option>
+                {% endfor %}
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="localitzacio2">Localització 2 *</label>
+            <select id="localitzacio2" name="localitzacio2" required>
+                <option value="">-- Selecciona una localització --</option>
+                {% for loc in localitzacions %}
+                <option value="{{ loc.id }}" 
+                        {% if cani and cani.localitzacio2 == loc.id %}selected{% endif %}>
+                    {{ loc.nom }} (ID: {{ loc.id }})
+                </option>
+                {% endfor %}
+            </select>
+        </div>
+
+        {% if not localitzacions %}
+        <div class="alert alert-warning">
+            <strong>Atenció:</strong> No hi ha localitzacions disponibles. 
+            <a href="/localitzacions/nova">Crea una localització primer</a>.
+        </div>
+        {% endif %}
+
+        <div class="form-actions">
+            <button type="submit" class="btn btn-success" {% if not localitzacions %}disabled{% endif %}>
+                {% if cani %}Actualitzar{% else %}Crear{% endif %}
+            </button>
+            <a href="/canins" class="btn btn-secondary">Cancel·lar</a>
+        </div>
+    </form>
+</div>
+{% endblock %}
