@@ -19,6 +19,10 @@
   - Plànol de localitzacions: seria interessant dividir el mapa en localitzacions.
 - **13-02-26:**
   - Avui decidim fer el plànol, dividir les sales, marcar el seu número (id) i fer els camins entre sales.
+- **27-02-26**
+  - Hem de canviar la taula camins i afegir un camp de tiups VARCHAR(50) anomenat "nom".
+  - [Comencem a utilitzar el CRUD de camins i localitzacions.](crud.md)
+
 
 ## Recursos
 
