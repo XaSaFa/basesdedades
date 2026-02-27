@@ -1,5 +1,34 @@
 # Creació d'un CRUD per treballar amb registres de localitzacions i camins
 
+Creem la bbdd:
+
+```
+CREATE DATABASE Aventura
+```
+
+Creem les taules:
+
+```
+CREATE TABLE `camins` (
+  `id` bigint(20) NOT NULL AUTO_INCREMENT,
+  `nom` varchar(50) NOT NULL,
+  `localitzacio1` bigint(20) unsigned NOT NULL,
+  `localitzacio2` bigint(20) unsigned NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+```
+
+```
+CREATE TABLE `localitzacions` (
+  `id` bigint(20) NOT NULL AUTO_INCREMENT,
+  `nom` varchar(100) NOT NULL,
+  `descripcio` text DEFAULT NULL,
+  `imatge` varchar(250) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=6 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+```
+
 ## Preparem la bbdd per treballar amb ella
 
 Accedim a mariadb amb ```sudo mariadb```
