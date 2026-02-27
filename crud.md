@@ -36,3 +36,37 @@ Aneu al terminal i executeu ```pip install -r requeriments.txt```, si fa falta i
 
 <img width="716" height="325" alt="image" src="https://github.com/user-attachments/assets/654ded06-aaca-4d27-94fa-84e2776d5fda" />
 
+## Descarregar el CRUD:
+
+Tenim el CRUD [aquí](https://github.com/XaSaFa/crud_bbdd).
+
+El baixem i descarreguem a la MV.
+
+<img width="946" height="746" alt="imatge" src="https://github.com/user-attachments/assets/22982435-b4f3-4e32-86d9-ebb05dfde982" />
+
+<img width="598" height="188" alt="imatge" src="https://github.com/user-attachments/assets/83f78d7c-9aa6-483f-9a82-077dfb1a1a08" />
+
+<img width="873" height="469" alt="imatge" src="https://github.com/user-attachments/assets/bcf69234-2782-45d2-99a5-628135c7bdec" />
+
+Obrim aquest projecte amb Pycharm a la MV.
+
+<img width="1294" height="901" alt="imatge" src="https://github.com/user-attachments/assets/825448d7-9555-4cb7-b059-b3bedd77377d" />
+
+Editem el fitxer config.py i fiquem la informació correcta del nom de la bbdd, usuari creat i la seva contrasenya:
+
+<img width="410" height="234" alt="imatge" src="https://github.com/user-attachments/assets/bc3b3f14-a526-4a93-9369-b6f1e5419b11" />
+
+## Executar el CRUD
+
+Executem el fitxer main.py
+
+<img width="1278" height="893" alt="imatge" src="https://github.com/user-attachments/assets/5abd6fde-715b-4cba-80dc-d2a5cece010b" />
+
+Cliquem el link http://0.0.0.0:8000
+
+<img width="608" height="26" alt="imatge" src="https://github.com/user-attachments/assets/fe588ee6-1c31-41dd-bd5e-1760ced1fbc8" />
+
+Ja el tenim funcionant:
+
+<img width="1458" height="600" alt="imatge" src="https://github.com/user-attachments/assets/2b5e2666-1162-4ba0-873f-2855a126dd68" />
+
