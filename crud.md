@@ -3,6 +3,7 @@
 Creem la bbdd:
 
 ```
+DROP DATABASE Aventura
 CREATE DATABASE Aventura
 ```
 
