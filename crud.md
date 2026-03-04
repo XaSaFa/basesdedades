@@ -68,6 +68,12 @@ Editem el fitxer config.py i fiquem la informació correcta del nom de la bbdd, 
 
 ## Executar el CRUD
 
+Instal·lar pycharm:
+
+```
+sudo snap install pycharm-comminty --classic
+```
+
 Executem el fitxer main.py
 
 <img width="1278" height="893" alt="imatge" src="https://github.com/user-attachments/assets/5abd6fde-715b-4cba-80dc-d2a5cece010b" />
