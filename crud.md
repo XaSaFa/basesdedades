@@ -71,7 +71,7 @@ Editem el fitxer config.py i fiquem la informació correcta del nom de la bbdd, 
 Instal·lar pycharm:
 
 ```
-sudo snap install pycharm-comminty --classic
+sudo snap install pycharm-community --classic
 ```
 
 Executem el fitxer main.py
