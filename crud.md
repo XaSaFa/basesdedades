@@ -49,6 +49,12 @@ Accedim a mariadb amb ```sudo mariadb```
 
 ## Descarregar el CRUD:
 
+Instal·lar pycharm:
+
+```
+sudo snap install pycharm-community --classic
+```
+
 Tenim el CRUD [aquí](https://github.com/XaSaFa/crud_bbdd).
 
 El baixem i descarreguem a la MV.
@@ -68,12 +74,6 @@ Editem el fitxer config.py i fiquem la informació correcta del nom de la bbdd, 
 <img width="410" height="234" alt="imatge" src="https://github.com/user-attachments/assets/bc3b3f14-a526-4a93-9369-b6f1e5419b11" />
 
 ## Executar el CRUD
-
-Instal·lar pycharm:
-
-```
-sudo snap install pycharm-community --classic
-```
 
 Executem el fitxer main.py
 
