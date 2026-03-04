@@ -5,6 +5,7 @@ Creem la bbdd:
 ```
 DROP DATABASE Aventura
 CREATE DATABASE Aventura
+USE Aventura
 ```
 
 Creem les taules:
