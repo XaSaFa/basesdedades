@@ -46,26 +46,6 @@ Accedim a mariadb amb ```sudo mariadb```
 
 <img width="166" height="28" alt="imatge" src="https://github.com/user-attachments/assets/85e48f9d-6e10-4255-9fb6-e9ba1ae4403d" />
 
-## Instal·lar software necessari:
-
-1. Fem un fitxer anomenat requeriments.txt amb aquest text:
-
-- fastapi>=0.104.0
-- uvicorn>=0.24.0
-- jinja2>=3.1.0
-- pymysql>=1.0.0
-- python-multipart>=0.0.5
-
-Podeu fer servir qualsevol editor com nano o gedit:
-
-<img width="592" height="156" alt="imatge" src="https://github.com/user-attachments/assets/4f4f77a3-e677-452b-ad8f-61ee1be18009" />
-
-Aneu al terminal i executeu ```pip install -r requeriments.txt```, si fa falta instal·leu pip.
-
-<img width="723" height="127" alt="imatge" src="https://github.com/user-attachments/assets/c54ad729-9e21-4f92-8f46-4395f5026417" />
-
-<img width="716" height="325" alt="image" src="https://github.com/user-attachments/assets/654ded06-aaca-4d27-94fa-84e2776d5fda" />
-
 ## Descarregar el CRUD:
 
 Tenim el CRUD [aquí](https://github.com/XaSaFa/crud_bbdd).
@@ -100,3 +80,22 @@ Ja el tenim funcionant:
 
 <img width="1458" height="600" alt="imatge" src="https://github.com/user-attachments/assets/2b5e2666-1162-4ba0-873f-2855a126dd68" />
 
+## (Només si no funciona el CRUD) Instal·lar software necessari:
+
+1. Fem un fitxer anomenat requeriments.txt amb aquest text:
+
+- fastapi>=0.104.0
+- uvicorn>=0.24.0
+- jinja2>=3.1.0
+- pymysql>=1.0.0
+- python-multipart>=0.0.5
+
+Podeu fer servir qualsevol editor com nano o gedit:
+
+<img width="592" height="156" alt="imatge" src="https://github.com/user-attachments/assets/4f4f77a3-e677-452b-ad8f-61ee1be18009" />
+
+Aneu al terminal i executeu ```pip install -r requeriments.txt```, si fa falta instal·leu pip.
+
+<img width="723" height="127" alt="imatge" src="https://github.com/user-attachments/assets/c54ad729-9e21-4f92-8f46-4395f5026417" />
+
+<img width="716" height="325" alt="image" src="https://github.com/user-attachments/assets/654ded06-aaca-4d27-94fa-84e2776d5fda" />
