@@ -21,7 +21,10 @@
   - Avui decidim fer el plànol, dividir les sales, marcar el seu número (id) i fer els camins entre sales.
 - **27-02-26**
   - [Comencem a utilitzar el CRUD de camins i localitzacions.](crud.md)
-
+- **11-03-26**
+  - [Programa stalker per veure la vostra informació i desplaçar-vos entre sales](https://github.com/XaSaFa/stalker)
+  - El plànol a utilitzar és lliure, però m'heu d'entregar un plànol i hem de poder fer una visita per dins.
+  - Les imatges les podeu generar per IA o agafar d'Internet.
 
 ## Recursos
 
