@@ -25,6 +25,10 @@
   - [Programa stalker per veure la vostra informació i desplaçar-vos entre sales](https://github.com/XaSaFa/stalker)
   - El plànol a utilitzar és lliure, però m'heu d'entregar un plànol i hem de poder fer una visita per dins.
   - Les imatges les podeu generar per IA o agafar d'Internet.
+  - Imatges a localitzacions (es fica /static/img/nom-fitxer) i es guarden a la carpeta static/img del projecte els fitxers.
+ <img width="1179" height="336" alt="image" src="https://github.com/user-attachments/assets/f6b26635-b9ac-42e3-a84a-dbb2809ece43" />
+ <img width="264" height="323" alt="image" src="https://github.com/user-attachments/assets/d39f1d76-0443-42f4-a8f6-c62ddf3a1b75" />
+
 
 ## Recursos
 
